@@ -105,8 +105,8 @@ Three SVM classifiers were trained using **scikit-learn**:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/imdb-sentiment-svm.git
-cd imdb-sentiment-svm
+git clone https://github.com/sahtiwk/Sentiment-Analysis-on-IMDB-movie-reviews.git
+cd Sentiment-Analysis-on-IMDB-movie-reviews
 ```
 
 ### 2️⃣ Install Dependencies
