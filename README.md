@@ -128,7 +128,7 @@ The application will open in your browser at **[http://localhost:8501](http://lo
 ## 📂 Project Structure
 
 ```
-imdb-sentiment-svm/
+Sentiment-Analysis-on-IMDB-movie-reviews/
 ├── app.py                          # Streamlit application
 ├── svm_rbf_sentiment_model.pkl     # Trained RBF SVM model
 ├── tfidf_vectorizer.pkl            # Fitted TF-IDF vectorizer
